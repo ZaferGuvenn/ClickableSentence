@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ClickableSentence</string>
+    <string name="mytext">Hello World! How are you? If you are fine. I am fine too. Thank you!</string>
+</resources>
